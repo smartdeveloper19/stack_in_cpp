@@ -1,0 +1,6 @@
+
+Debug/*
+Debug\*
+
+*.mk
+Debug/makefile
